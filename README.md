@@ -24,3 +24,11 @@ Hệ thống IoT được thiết kế để giúp cho người dùng kiểm so�
 
 https://github.com/user-attachments/assets/f17baeed-44a7-4418-981b-0421d0baea05
 
+# Kết luận:
+
+Các linh kiện này giúp hệ thống hoạt động linh hoạt, thông minh và dễ dàng mở rộng, tạo nền tảng cho việc phát triển các ứng dụng IoT trong quản lý không gian sống thông minh, nhằm tối ưu hóa trải nghiệm người dùng và cải thiện chất lượng môi trường sống.
+
+Dù đây chỉ là một dự án nhà thông minh đơn giản nhưng sẽ giúp em rất nhiều điều khi khám phá dần dần IoT cũng như trong các dự án lớn hơn. 
+
+Em xin cám ơn thầy đã hỗ trợ và giảng giải trong suốt quá trình học bộ môn phát triển IoT này. Em chúc thầy nhiều sức khoẻ và thành công trong mọi lĩnh vực.
+
