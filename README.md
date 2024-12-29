@@ -20,4 +20,6 @@ Hệ thống IoT được thiết kế để giúp cho người dùng kiểm so�
 ![IOT_diagram](https://github.com/namluntihon199/IoT/blob/main/t%E1%BA%A3i%20xu%E1%BB%91ng.jpg)
 
 # Video:
+https://github.com/namluntihon199/IOT-cuoiky/blob/main/eefc8ea4-fa8d-479e-b3e7-c63192c766ad.mp4
+
 
