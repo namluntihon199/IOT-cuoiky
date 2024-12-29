@@ -17,7 +17,8 @@ Hệ thống IoT được thiết kế để giúp cho người dùng kiểm so�
 ![image](https://github.com/user-attachments/assets/4ef10913-2f26-4f04-908f-e00c940dade8)
 
 # Sơ đồ khối:
-![IOT_diagram](https://github.com/namluntihon199/IoT/blob/main/t%E1%BA%A3i%20xu%E1%BB%91ng.jpg)
+![tải xuống](https://github.com/user-attachments/assets/e0ffd8d5-b5e1-4202-9249-5b85de3c183a)
+
 
 # Video:
 
